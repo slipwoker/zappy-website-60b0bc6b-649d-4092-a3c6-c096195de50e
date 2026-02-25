@@ -1,47 +1,56 @@
-# Business — Generative Engine Optimization Map
+# אמ"א יהדות — Generative Engine Optimization Map
+
+> A Jewish nonprofit organization (Amuta) focused on Judaism and Jewish heritage, with online donations as a primary website goal.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ema-yahadut.zappy5.app
 עמותה יהודית בישראל המקדמת ערכי יהדות ומורשת. תרומה מקוונת בטוחה לפרויקטים משמעותיים לחיזוק הזהות היהודית. הצטרפו אלינו עוד היום!
 
 ### אודות
-https://example.com/about
+https://ema-yahadut.zappy5.app/about
 גלו את הייעוד והחזון של עמותת אמא יהדות. למדו על הפעילות הקהילתית שלנו, הערכים המנחים והשפעתנו על קהילות יהודיות ברחבי הארץ.
 
 ### תוכניות
-https://example.com/programs
+https://ema-yahadut.zappy5.app/programs
 סקירת תוכניות החינוך, הקהילה והמורשת של עמותת אמא יהדות. פרויקטים ייחודיים להעשרה רוחנית וחיבור לשורשים היהודיים. גלו איך אתם יכולים להשתתף!
 
 ### צור קשר
-https://example.com/contact
+https://ema-yahadut.zappy5.app/contact
 יש לכם שאלות? רוצים להתנדב או לתרום? פנו אלינו עכשיו ונשמח לשתף אתכם בפעילות עמותת אמא יהדות. כל פנייה מקבלת מענה אישי ומקצועי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ema-yahadut.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ema-yahadut.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ema-yahadut.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אמ"א יהדות
+A Jewish nonprofit organization (Amuta) focused on Judaism and Jewish heritage, with online donations as a primary website goal.
+
+## Target Audience
+
+## Industry
+עמותות ומלכ"רים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ema-yahadut.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ema-yahadut.zappy5.app/robots.txt
